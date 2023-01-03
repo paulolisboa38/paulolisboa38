@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paulo Lisboa.
 - 👀 I’m interested in C# programming language and .net crosschain.
 - 🌱 I’m currently learning oriented object programming.
-- 💞️ I’m looking to collaborate on projects builtwith .net plataform using C# languange.
+- 💞️ I’m looking to collaborate on projects builtwith .net platform using C# languange.
 - 📫 You can find me on paulolisboa38@gmail.com.
 
 <!---
